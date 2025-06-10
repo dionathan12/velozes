@@ -42,7 +42,7 @@ nav ul li a {
 }
 .hero h1 {
   font-size: 40px;
-  text-shadow: 2px 2px 4px #000;
+  text-shadow: 2px 2px 4px #3b3737;
 }
 .hero p {
   font-size: 20px;
@@ -100,7 +100,7 @@ nav ul li a {
 }
 .contato {
   padding: 60px 20px;
-  background-color: #111;
+  background-color: #3b3737;
 }
 form {
   display: flex;
@@ -125,5 +125,5 @@ form button {
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #000;
+  background-color: #3b3737;
 }
